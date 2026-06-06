@@ -1,0 +1,9 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { background: #0D1117; color: #E6EDF3; font-family: 'Vazirmatn', sans-serif; direction: rtl; }
+a { color: inherit; }
+button { font-family: 'Vazirmatn', sans-serif; }
+input, select, textarea { font-family: 'Vazirmatn', sans-serif; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #161B22; }
+::-webkit-scrollbar-thumb { background: rgba(245,158,11,0.3); border-radius: 3px; }
